@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "KTL7Y89WAX.com.facilit8ai.cadence"
+        ],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Matches household invitation links with format /invite/{code}/{email}"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "KTL7Y89WAX.com.facilit8ai.cadence"
+    ]
+  }
+}
